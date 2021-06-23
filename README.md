@@ -60,3 +60,6 @@ You can edit the application information here according to your own
 }
 
 ```
+
+
+After editing, just run the "CreateApp.bat" file.
