@@ -6,9 +6,12 @@ I made a javascript based sample application using Electron to make the website 
 
 
 
-## Usage
 
- 
+
+
+## Usage 
+
+
 ```
 PM> Main.js
 ```
@@ -62,4 +65,6 @@ You can edit the application information here according to your own
 ```
 
 
-After editing, just run the "CreateApp.bat" file.
+
+
+After editing, Command prompt "npm install" and just run the "CreateApp.bat" file.
